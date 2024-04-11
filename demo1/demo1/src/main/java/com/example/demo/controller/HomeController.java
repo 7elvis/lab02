@@ -13,7 +13,7 @@ public class HomeController {
         return "hola";
     }
 
-    @GetMapping("/patito")
+    @GetMapping("/patito_hule")
     public String formularioPatito(Model model){
         Patito patito3 = new Patito();
         model.addAttribute("patito", patito3);
