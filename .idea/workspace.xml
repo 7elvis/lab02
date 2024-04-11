@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="169c6248-4708-43ab-a352-560fa2fc8bba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/demo1/demo1/src/main/resources/templates/tablero.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1/demo1/src/main/java/com/example/demo/controller/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo1/demo1/src/main/java/com/example/demo/controller/HomeController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/demo1/demo1/src/main/resources/templates/formulario1.html" beforeDir="false" afterPath="$PROJECT_DIR$/demo1/demo1/src/main/resources/templates/formulario1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo1/demo1/src/main/resources/templates/hola.html" beforeDir="false" afterPath="$PROJECT_DIR$/demo1/demo1/src/main/resources/templates/hola.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +60,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1712801492967</updated>
-      <workItem from="1712801494334" duration="1362000" />
+      <workItem from="1712801494334" duration="2348000" />
     </task>
     <servers />
   </component>

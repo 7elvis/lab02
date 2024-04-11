@@ -19,7 +19,14 @@ public class HomeController {
         model.addAttribute("patito", patito3);
         return "formulario1";
     }
-
+    @GetMapping("/patito_hule/ejecutar")
+    public String ejecutarPatito(@RequestParam("filas") int filasPatito,
+                                  @RequestParam("columnas") int columnasPatito,
+                                    @RequestParam("posicion") String posicionPatito){
+        String string = posicionPatito;
+        String[] parts = string.split(" ");
+        return "tablero";
+    }
     // @GetMapping("/persona2")
     //public String formularioPersona (Model model){
     //    Persona persona3 = new Persona();
