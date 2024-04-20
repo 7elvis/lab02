@@ -5,7 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="169c6248-4708-43ab-a352-560fa2fc8bba" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1/demo1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1/demo1/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1/demo1/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1/demo1/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1/demo1/src/main/java/com/example/demo/Demo1Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1/demo1/src/main/java/com/example/demo/controller/HomeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1/demo1/src/main/java/com/example/demo/controller/Patito.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1/demo1/src/main/java/com/example/demo/controller/Posicion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1/demo1/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1/demo1/src/main/resources/templates/formulario1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1/demo1/src/main/resources/templates/hola.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1/demo1/src/main/resources/templates/tablero.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1/demo1/src/test/java/com/example/demo/Demo1ApplicationTests.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,20 +36,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "7elvis"
-  }
-}]]></component>
-  <component name="GithubPullRequestsUISettings">
-    <option name="selectedUrlAndAccountId">
-      <UrlAndAccount>
-        <option name="accountId" value="c454a02d-1440-40ca-81d6-a603d136db6f" />
-        <option name="url" value="https://github.com/7elvis/lab02.git" />
-      </UrlAndAccount>
-    </option>
-  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -43,6 +43,7 @@
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="2ew2oEEu7rUdXCmJKGUQMgfI5Dr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -64,21 +65,6 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="lab02" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="lab02" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -87,8 +73,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1712801492967</updated>
-      <workItem from="1712801494334" duration="2768000" />
-      <workItem from="1713652027834" duration="607000" />
+      <workItem from="1712801494334" duration="2348000" />
     </task>
     <servers />
   </component>
